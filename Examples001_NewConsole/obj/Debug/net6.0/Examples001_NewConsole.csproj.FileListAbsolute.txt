@@ -1,0 +1,15 @@
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.exe
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.deps.json
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.runtimeconfig.json
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.dll
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.pdb
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.csproj.AssemblyReference.cache
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.AssemblyInfoInputs.cache
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.AssemblyInfo.cs
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.csproj.CoreCompileInputs.cache
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.dll
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\refint\Examples001_NewConsole.dll
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.pdb
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.genruntimeconfig.cache
+C:\Users\pshak\OneDrive\Рабочий стол\Examples\Examples001_NewConsole\obj\Debug\net6.0\ref\Examples001_NewConsole.dll
